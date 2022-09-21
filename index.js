@@ -26,6 +26,8 @@ const readme = `\
 💻 My Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captainjie&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github.com/captainjie/github-readme-stats)
 
+---
+
 ⏰ Updated on ${new Date().toUTCString()}
 
 ![Progress Bar CI](https://github.com/captainjie/captainjie/workflows/Progress%20Bar%20CI/badge.svg)\
