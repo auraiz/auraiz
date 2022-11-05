@@ -1,6 +1,6 @@
 ### Hi 我是JC 👋
 
-⏳ Year progress { █████████████████████████▁▁▁▁▁ } 84.41 %
+⏳ Year progress { █████████████████████████▁▁▁▁▁ } 84.46 %
 
 ---
 
@@ -12,6 +12,6 @@
 
 ---
 
-⏰ Updated on Sat, 05 Nov 2022 02:03:34 GMT
+⏰ Updated on Sat, 05 Nov 2022 06:27:46 GMT
 
 ![Progress Bar CI](https://github.com/captainjie/captainjie/workflows/Progress%20Bar%20CI/badge.svg)
